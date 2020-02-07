@@ -1,0 +1,10 @@
+C:\Ravi\FoodWoodz.DAL\bin\Debug\netcoreapp3.0\FoodWoodz.DAL.deps.json
+C:\Ravi\FoodWoodz.DAL\bin\Debug\netcoreapp3.0\FoodWoodz.DAL.dll
+C:\Ravi\FoodWoodz.DAL\obj\Debug\netcoreapp3.0\FoodWoodz.DAL.AssemblyInfoInputs.cache
+C:\Ravi\FoodWoodz.DAL\obj\Debug\netcoreapp3.0\FoodWoodz.DAL.AssemblyInfo.cs
+C:\Ravi\FoodWoodz.DAL\bin\Debug\netcoreapp3.0\FoodWoodz.DAL.pdb
+C:\Ravi\FoodWoodz.DAL\obj\Debug\netcoreapp3.0\FoodWoodz.DAL.dll
+C:\Ravi\FoodWoodz.DAL\obj\Debug\netcoreapp3.0\FoodWoodz.DAL.pdb
+C:\Ravi\FoodWoodz.DAL\bin\Debug\netcoreapp3.0\FoodWoodz.DAL.runtimeconfig.json
+C:\Ravi\FoodWoodz.DAL\bin\Debug\netcoreapp3.0\FoodWoodz.DAL.runtimeconfig.dev.json
+C:\Ravi\FoodWoodz.DAL\obj\Debug\netcoreapp3.0\FoodWoodz.DAL.csprojAssemblyReference.cache

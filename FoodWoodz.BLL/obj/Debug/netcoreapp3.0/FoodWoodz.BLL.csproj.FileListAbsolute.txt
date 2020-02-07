@@ -1,0 +1,11 @@
+C:\Ravi\FoodWoodz.BLL\obj\Debug\netcoreapp3.0\FoodWoodz.BLL.csprojAssemblyReference.cache
+C:\Ravi\FoodWoodz.BLL\obj\Debug\netcoreapp3.0\FoodWoodz.BLL.AssemblyInfoInputs.cache
+C:\Ravi\FoodWoodz.BLL\obj\Debug\netcoreapp3.0\FoodWoodz.BLL.AssemblyInfo.cs
+C:\Ravi\FoodWoodz.BLL\bin\Debug\netcoreapp3.0\FoodWoodz.BLL.deps.json
+C:\Ravi\FoodWoodz.BLL\bin\Debug\netcoreapp3.0\FoodWoodz.BLL.dll
+C:\Ravi\FoodWoodz.BLL\bin\Debug\netcoreapp3.0\FoodWoodz.BLL.pdb
+C:\Ravi\FoodWoodz.BLL\bin\Debug\netcoreapp3.0\FoodWoodz.DAL.dll
+C:\Ravi\FoodWoodz.BLL\bin\Debug\netcoreapp3.0\FoodWoodz.DAL.pdb
+C:\Ravi\FoodWoodz.BLL\obj\Debug\netcoreapp3.0\FoodWoodz.BLL.csproj.CopyComplete
+C:\Ravi\FoodWoodz.BLL\obj\Debug\netcoreapp3.0\FoodWoodz.BLL.dll
+C:\Ravi\FoodWoodz.BLL\obj\Debug\netcoreapp3.0\FoodWoodz.BLL.pdb
